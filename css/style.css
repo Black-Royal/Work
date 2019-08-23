@@ -90,6 +90,9 @@ float: right;
   text-decoration: none;
   line-height: 50px;
 }
+.end a:hover{
+  text-decoration: underline;
+}
 .footer{
   margin-left: 620px;
 }
