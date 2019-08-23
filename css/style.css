@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.color1{
+  float: left;
+  background: #DCDCDC;
+  width: 150px;
+  height: 1080px;
+  border-right: 1px solid grey;
+}
+.color2{
+  float: right;
+  background: #DCDCDC;
+  width: 150px;
+  height: 1080px;
+  border-left: 1px solid grey;
+}
+.logo{
+  margin: 50px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+.ht{
+  display: flex;
+  height: 50px;
+  background-color: #565555;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.ht a{
+  color: white;
+  display: block;
+  height: 50px;
+  padding: 0 50px;
+  text-decoration: none;
+  line-height: 50px;
+}
+.ht a:hover{
+  background: #454545;
+}
+/*content*/
+table{
+margin-left: 200px;
+margin-top: 35px;
+width: 300px;
+border: 2px solid grey;
+}
+tr{
+height: 50px;
+}
+td{
+  padding: 15px
+}
+.box{
+width: 1100px;
+height: 500px;
+margin-top: 35px;
+margin-right: 50px;
+border: 2px solid grey;
+float: right;
+}
+.img2{
+  width: 700px;
+  display: block;
+  margin: auto;
+}
+.box2{
+  width: 1000px;
+  height: 200px;
+  margin-top: 35px;
+  margin-right: 100px;
+  float: right;
+  font-size: 20px;
+}
+.end{
+  display: flex;
+  float: left;
+  width: 1500px;
+  height: 50px;
+  background-color: #e1e1e1;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.end a{
+  color: black;
+  display: block;
+  height: 50px;
+  padding: 0 50px;
+  text-decoration: none;
+  line-height: 50px;
+}
+.footer{
+  margin-left: 620px;
+}
